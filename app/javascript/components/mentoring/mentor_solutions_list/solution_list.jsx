@@ -1,4 +1,4 @@
-import React, { useReducer, useCallback } from 'react'
+import React from 'react'
 import { Solution } from './solution'
 import { Pagination } from '../pagination'
 import { usePaginatedRequestQuery } from '../../../hooks/request_query'
